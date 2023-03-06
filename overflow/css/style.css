@@ -1,0 +1,30 @@
+body div {
+  padding: 5px;
+  margin: 100px auto;
+  max-width: 500px;
+  max-height: 300px;
+  font-size: larger;
+}
+
+.visible {
+  background-color: rgb(158, 201, 239);
+  border: 2px solid rgb(3, 3, 3);
+}
+
+.hidden {
+  overflow: hidden;
+  background-color: rgb(158, 201, 239);
+  border: 2px solid rgb(3, 3, 3);
+}
+
+.scroll {
+  overflow: scroll;
+  background-color: rgb(158, 201, 239);
+  border: 2px solid rgb(3, 3, 3);
+}
+
+.auto {
+  overflow: auto;
+  background-color: rgb(113, 230, 148);
+  border: 2px solid rgb(3, 3, 3);
+}
