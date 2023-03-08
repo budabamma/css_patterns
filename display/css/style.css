@@ -1,0 +1,44 @@
+.wrapper {
+  width: 600px;
+  height: auto;
+  margin: 100px auto;
+  padding: 20px 20px 0 20px;
+  border: 3px solid #434343;
+}
+
+.block,
+.inline,
+.none,
+.inlne-block {
+  font-size: 30px;
+  margin-bottom: 20px;
+  border: 2px solid #292929;
+}
+
+.block {
+  display: block;
+  color: rgb(220, 238, 255);
+  background-color: #5b99dc;
+  border: 2px solid #292929;
+}
+
+.inline {
+  display: inline;
+  background-color: #cde855;
+  border: 2px solid #2428f0;
+}
+
+.none {
+  color: rgb(37, 37, 37);
+  background-color: #5b99dc;
+  opacity: 0.33;
+}
+
+.inlne-block {
+  display: inline-block;
+  background-color: #31d744;
+}
+
+.none:active {
+  display: none;
+}
