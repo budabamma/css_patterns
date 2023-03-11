@@ -1,0 +1,161 @@
+h1 {
+  font-size: 50px;
+  text-align: center;
+}
+
+.wrapper {
+  max-width: 1300px;
+  height: auto;
+  border: 2px solid #333333;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  font-size: 40px;
+  color: #2857d8;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+
+span {
+  color: #2857d8;
+}
+
+.serif {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.sans-serif {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.monospace {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.sistem-ui {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.size {
+  font-size: 22px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.weight {
+  margin-left: 370px;
+  margin-bottom: 50px;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+}
+.weight-100 {
+  font-weight: 100;
+}
+.weight-200 {
+  font-weight: 200;
+}
+.weight-300 {
+  font-weight: 300;
+}
+.weight-400 {
+  font-weight: 400;
+}
+.weight-500 {
+  font-weight: 500;
+}
+.weight-600 {
+  font-weight: 600;
+}
+.weight-700 {
+  font-weight: 700;
+}
+.weight-800 {
+  font-weight: 800;
+}
+.weight-900 {
+  font-weight: 900;
+}
+.center {
+  text-align: center;
+}
+
+.justify {
+  text-align: justify;
+}
+
+.decoration-line {
+  text-decoration: underline overline line-through;
+}
+.decoration-color {
+  text-decoration: underline overline line-through;
+  text-decoration-color: rgb(255, 30, 0);
+}
+
+.solid {
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+}
+.double {
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
+.dotted {
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+}
+.dashed {
+  text-decoration-line: underline;
+  text-decoration-style: dashed;
+}
+.wavy {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+}
+
+.shadow {
+  text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.lowercase {
+  text-transform: lowercase;
+}
+
+.ident {
+  text-indent: 10%;
+}
+
+.letter-spacing {
+  letter-spacing: 1em;
+}
+
+.line-height {
+  line-height: 2em;
+}
+
+.word-spacing {
+  word-spacing: 2em;
+}
+
+.word-break {
+  word-break: break-all;
+}
